@@ -11,3 +11,4 @@ dist/
 .vercel/
 
 # NOTE: vendor/*.tgz IS committed — it is the sealed UI package
+.vercel
